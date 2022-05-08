@@ -64,6 +64,13 @@
     text-align: center;
 }
 
+.fa-phone,
+.fa-envelope,
+.fa-globe,
+.fa-github {
+    margin-left: 20px;
+}
+
 .contact-info ul {
     padding-top: 1.5rem;
 }
@@ -71,14 +78,14 @@
 .contact-info ul li,
 .references ul li {
     padding: .4rem 0;
-    color: #eeeeee;
+    color: #93A0B0;
 }
 
 .contact-info ul li i,
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
-    color: #eeeeee;
+    color: #2E84BD;
 }
 
 .skills ul {
@@ -87,7 +94,7 @@
 .skills ul li p {
     padding: .4rem 0;
     margin-left: 15px ;
-    color: #eeeeee;
+    color: #93A0B0;
 }
 
 .right-section-contents {
